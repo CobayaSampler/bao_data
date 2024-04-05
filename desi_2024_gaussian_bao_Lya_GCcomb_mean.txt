@@ -1,0 +1,3 @@
+# [z] [value at z] [quantity]
+2.33 8.522565833956225 DH_over_rs
+2.33 39.70838281345702 DM_over_rs
